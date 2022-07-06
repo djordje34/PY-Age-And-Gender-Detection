@@ -1,11 +1,11 @@
 # DL-Age-And-Gender-Detection
 Detekcija starosne dobi i pola
 
-pip install:
+pip install *:
 1. tkinter
 2. opencv-python (openCV)
-3.dlib
-4.pillow
+3. dlib
+4. pillow
 
 
 Pre pokretanja programa, preuzeti i ubaciti u folder programa sledeće:
