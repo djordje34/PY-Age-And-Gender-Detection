@@ -12,3 +12,6 @@ Pre pokretanja programa, preuzeti i ubaciti u folder programa sledeće:
 [Google Drive](https://drive.google.com/drive/folders/1o18UQmfvmUqren6BDoyM3GaDzWzu2xhT?usp=sharing)
 
 Za pokretanje programa, pokrenuti interface.py fajl.
+
+TODO:
+Dodati cxfreeze skriptu za exe
